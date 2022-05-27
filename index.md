@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I just typed a huge text and then the site crashed. So I will just leave this for now. yikes
