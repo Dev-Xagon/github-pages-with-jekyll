@@ -1,3 +1,4 @@
+
 title: My Adventures of Coding
 author: Xagon
 email: DevXagon@gmail.com
@@ -9,4 +10,3 @@ twitter_username: none for now. # DO NOT include the @ character, or else the bu
 github_username:  Dev-Xagon # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima

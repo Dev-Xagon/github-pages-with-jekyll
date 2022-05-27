@@ -1,5 +1,9 @@
 ---
-title: "Welcome to my blog"
+DevXagon: "The Adventure of Coding"
 ---
 
-I just typed a huge text and then the site crashed. So I will just leave this for now. yikes
+Hello there! This is a Blog created to give your an expression of my progress in Coding C++ in Unreal Engine. 
+
+I appreciate all help you can give me. Unlike gamers who hate backseat-gaming, backseat-programming is appreciated.
+
+Hope to see you around.
